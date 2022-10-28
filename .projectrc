@@ -5,9 +5,9 @@
   "email": 'b'awmyhr@gmail.com'',
   "full_name": 'b'awmyhr'',
   "project_home": 'https://github.com/awmyhr/ansible-role_template',
-  "project_name": 'playbook example',
+  "project_name": 'Example Ansible Playbook',
   "project_slug": 'ex-ansible-pb',
-  "project_abbr": 'pb-example',
+  "project_abbr": 'ex-ansible-pb',
   "project_version": '0.1.0',
   "software_copyright": '2020',
   "software_license": 'Apache-2.0'

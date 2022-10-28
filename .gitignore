@@ -15,6 +15,7 @@
 .user
 Thumbs.db
 **/test*.yml
+**/roles/**
 **/ansible/inventories/user**
 **/ansible/inventories/group_vars/user**
 #------------------------------------------------------------------------------

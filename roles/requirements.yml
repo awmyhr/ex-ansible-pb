@@ -1,9 +1,9 @@
 ---
+roles:
+  - name: role_first
+    scm: git
+    src: git@github.com:awmyhr/ex-ansible-r1.git
 
-- name: role_first
-  scm: git
-  src: role_first
-
-- name: role_second
-  scm: git
-  src: role_second
+  - name: role_second
+    scm: git
+    src: git@github.com:awmyhr/ex-ansible-r2.git
