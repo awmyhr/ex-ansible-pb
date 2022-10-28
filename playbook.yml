@@ -1,0 +1,8 @@
+---
+- name: playbook example
+  hosts: all
+  gather_facts: false
+
+  roles:
+    - role: 'role_first'
+    - role: 'role_second'

@@ -1,0 +1,9 @@
+---
+
+- name: role_first
+  scm: git
+  src: role_first
+
+- name: role_second
+  scm: git
+  src: role_second
